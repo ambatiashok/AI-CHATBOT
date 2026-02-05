@@ -170,6 +170,8 @@ structured NLP workflows, and practical AI implementation.
 
 OUTPUT:
 
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/e84f7ff7-f6ab-4e49-9961-7ab2d32acc59" />
+
 
 
 
